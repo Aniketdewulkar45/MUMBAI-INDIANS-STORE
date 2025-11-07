@@ -10,16 +10,18 @@ A Java Swing-based merchandise store with Login, Signup, Feedback, Splash, and B
 ![Splash Screen](MI-IMAGES/main.png)
 
 ### 🔐 Login Page
-![Login Page](images/login.png)
+![Login Page](MI-IMAGES/login.png)
 
 ### 🧾 Signup Page
-![Signup Page](images/signup.png)
+![Signup Page](MI-IMAGES/signup.png)
 
 ### 💬 Feedback Page
-![Feedback Page](images/feedback.png)
+![Feedback Page](MI-IMAGES/feedback.png)
 
 ### 💬 Menu
-![Menu Page](images/menu.png)
+![Menu Page](MI-IMAGES/menu.png)
 
 ### 🧮 Billing Page
-![Billing Page](images/billing.png)
+![Billing Page](MI-IMAGES/billing.png)
+
+SOMETIMES THE IMAGE IN THE CART MENU MAY NOT BE VISIBLE SO TAKE SMALLER IMAGE IN TERMS OF HEIGHT AND WIDTH.
