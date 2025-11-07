@@ -18,9 +18,6 @@ A Java Swing-based merchandise store with Login, Signup, Feedback, Splash, and B
 ### 💬 Feedback Page
 ![Feedback Page](MI-IMAGES/feedback.png)
 
-### 💬 Menu
-![Menu Page](MI-IMAGES/menu.jpg)
-
 ### 🧮 Billing Page
 ![Billing Page](MI-IMAGES/billing.png)
 
