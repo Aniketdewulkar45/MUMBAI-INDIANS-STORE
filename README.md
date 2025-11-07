@@ -7,7 +7,7 @@ A Java Swing-based merchandise store with Login, Signup, Feedback, Splash, and B
 ## 📸 Application Screenshots
 
 ### 🟦 Splash Screen
-![Splash Screen](images/main.png)
+![Splash Screen](MI-IMAGES/main.png)
 
 ### 🔐 Login Page
 ![Login Page](images/login.png)
